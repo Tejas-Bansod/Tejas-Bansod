@@ -22,9 +22,8 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*  
-- 📝 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [tejas.bansod.work@gmail.com](mailto:tejas.bansod.work@gmail.com)  
+- 📝 LinkedIn: [linkedin.com/in/tejas-bansod-profile/](https://linkedin.com/in/tejas-bansod-profile/)
 
 ---
 
