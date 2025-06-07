@@ -1,0 +1,39 @@
+<h1 align="center">Hi 👋, I'm Tejas</h1>
+<h3 align="center">💻 Full Stack Web Developer | ⚙️ DevOps Engineer</h3>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I build **scalable full-stack web applications** using modern tech.
+- 🌐 I automate infrastructure and deployments using **CI/CD tools** and **cloud platforms**.
+- 🧠 Always learning new things in **backend engineering**, **cloud DevOps**, and **system design**.
+- 🛠️ Languages & Tools:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*  
+- 📝 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+### 📊 GitHub Stats
+
+![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
