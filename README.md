@@ -24,15 +24,3 @@
 
 - 📧 Email: [tejas.bansod.work@gmail.com](mailto:tejas.bansod.work@gmail.com)  
 - 📝 LinkedIn: [linkedin.com/in/tejas-bansod-profile/](https://linkedin.com/in/tejas-bansod-profile/)
-
----
-
-### 📊 GitHub Stats
-
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark)
