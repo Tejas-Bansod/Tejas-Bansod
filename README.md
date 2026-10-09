@@ -1,160 +1,184 @@
- <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">Full Stack Developer • Systems Programmer • DevOps Engineer • AI Enthusiast</h3>
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+Rust+%26+Golang;Flutter+Mobile+App+Developer;AI+%26+Local+LLM+Integration;Linux+%7C+Docker+%7C+Kubernetes;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0F172A,70:164E63,100:0891B2&text=TEJAS%20BANSOD&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%7C%20AI&descSize=14&descAlignY=57&animation=fadeIn&stroke=0891B2&strokeWidth=1" alt="Tejas Bansod animated header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Engineer+%2F%2F+Building+at+Scale;Rust+%2B+Go+%2F%2F+Systems+Engineering;AI+Infrastructure+%2F%2F+Local+LLMs;Flutter+%2F%2F+Cross-Platform+Engineering;Linux+%2F%2F+Cloud+%2F%2F+DevOps" alt="Animated developer introduction" />
+</a>
+
+<br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+<a href="https://linkedin.com/in/tejas-bansod-profile/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:tejas.bansod.work@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `01` — Engineering Profile
 
-```yaml
-name: Tejas
-role: Full Stack Developer & DevOps Engineer
-interests:
-  - Scalable Backend Systems
-  - Systems Programming with Rust
-  - Golang & Distributed Services
-  - Cross-Platform Apps with Flutter
-  - Local AI, LLMs & AI Agents
-  - Linux & Operating System Development
-  - Cloud Infrastructure & Automation
-currently_building:
-  - AI-powered tools and applications
-  - Modern web and mobile applications
-  - Linux-based OS experiments
-  - Scalable backend architectures
+```text
+TEJAS BANSOD
+────────────────────────────────────────────────────
+Focus       Full-Stack & Systems Engineering
+Frontend    React · Next.js · TypeScript · Tailwind
+Backend     Node.js · NestJS · Go · Rust
+Mobile      Flutter · Dart
+AI Systems  llama.cpp · Whisper · ONNX · Piper
+Infrastructure  Linux · Docker · Kubernetes · CI/CD
+Database    MongoDB · Redis · PostgreSQL
+Philosophy  Build scalable systems. Ship with purpose.
+────────────────────────────────────────────────────
 ```
 
-- 💻 Building modern, scalable **full-stack web applications**.
-- ⚙️ Designing backend systems, APIs, and deployment pipelines.
-- 🦀 Exploring **Rust** for high-performance systems and AI infrastructure.
-- 🐹 Working with **Golang** for efficient backend services.
-- 📱 Developing cross-platform mobile applications with **Flutter**.
-- 🤖 Exploring local LLMs, AI agents, speech recognition, and text-to-speech.
-- 🐧 Interested in Linux, system architecture, and custom OS development.
-- ☁️ Automating infrastructure with Docker, Kubernetes, and CI/CD.
-- 🚀 Always learning, building, and experimenting with new technologies.
+I'm a software developer interested in building products across the stack, from modern user interfaces and scalable APIs to AI-powered systems and deployment infrastructure.
+
+- ⚡ Engineering full-stack web applications and backend services.
+- 🦀 Exploring Rust for high-performance system components and AI infrastructure.
+- 🐹 Building backend services with Go.
+- 📱 Developing cross-platform applications using Flutter.
+- 🧠 Integrating local language models, speech recognition, and AI tooling.
+- 🐧 Exploring Linux customization and operating system development.
+- ☁️ Automating deployments and infrastructure with modern DevOps tooling.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Technology Matrix
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,rust,python,cpp,c,dart" alt="Programming languages" />
-</p>
+### LANGUAGES
 
-### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=ts,js,rust,go,python,dart,c,cpp&perline=8" alt="Programming languages"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter" alt="Frontend and mobile technologies" />
-</p>
+### APPLICATION ENGINEERING
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,flutter&perline=6" alt="Application development"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,rust" alt="Backend technologies" />
-</p>
+### DATA & INFRASTRUCTURE
 
-### 🗄️ Databases & Messaging
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,docker,kubernetes,nginx,linux,aws,terraform&perline=9" alt="Databases and infrastructure"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,mysql" alt="Databases" />
-</p>
+### TOOLING & AUTOMATION
 
-### ☁️ DevOps, Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,cmake,vscode,postman,prometheus,grafana&perline=9" alt="Development tooling"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,githubactions,aws,terraform,prometheus,grafana" alt="DevOps and cloud technologies" />
-</p>
+</div>
 
-### 🤖 AI & Machine Learning
+### AI & Systems
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,python" alt="AI and machine learning tools" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/llama.cpp-Local%20LLMs-111111?style=for-the-badge" alt="llama.cpp" />
-  <img src="https://img.shields.io/badge/Whisper-Speech%20Recognition-412991?style=for-the-badge" alt="Whisper" />
-  <img src="https://img.shields.io/badge/ONNX%20Runtime-Model%20Inference-005CED?style=for-the-badge" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/Piper-Text%20to%20Speech-00A67D?style=for-the-badge" alt="Piper TTS" />
-</p>
+<img src="https://img.shields.io/badge/RUST-Systems%20Programming-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/LLAMA.CPP-Local%20Inference-111827?style=flat-square" alt="llama.cpp"/>
+<img src="https://img.shields.io/badge/WHISPER-Speech%20Recognition-412991?style=flat-square" alt="Whisper"/>
+<img src="https://img.shields.io/badge/ONNX-Model%20Runtime-005CED?style=flat-square" alt="ONNX Runtime"/>
+<img src="https://img.shields.io/badge/PIPER-Text%20to%20Speech-0F766E?style=flat-square" alt="Piper"/>
 
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash,cmake" alt="Development tools" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## `03` — Selected Engineering Projects
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+### 🧠 Ananta OS
+
+**Linux · Rust · AI · System Engineering**
+
+Exploring a Linux-based operating system with custom UI, local AI capabilities, voice interaction, and a personalized desktop experience.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Local AI Provider
+
+**Rust · llama.cpp · Whisper · ONNX**
+
+Building a local AI integration layer with speech-to-text, text-to-speech, language model inference, and modular engine adapters.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Captureworld Blog
+
+**Next.js · React · MongoDB · DevOps**
+
+Developing a company publishing platform with modern web technologies, production deployment, and SEO-focused content.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Flutter Applications
+
+**Flutter · Dart · NestJS**
+
+Building cross-platform mobile applications with structured backend APIs and modern application architecture.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## `04` — GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8&include_all_commits=true" alt="GitHub statistics"/>
 
-## 🐍 Watch My Contributions Get Eaten!
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Most used languages"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-</p>
+<br/>
 
----
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
 
-## 🧩 Featured Interests
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-00D9FF?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Development" />
-  <img src="https://img.shields.io/badge/Systems-Rust-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Systems Programming" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Development" />
-  <img src="https://img.shields.io/badge/Cloud-DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/AI-Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## `05` — Contribution Activity
 
-<p align="center">
-  <a href="mailto:tejas.bansod.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tejas-bansod-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  💬 Open to discussing technology, software architecture, AI, and innovative projects.
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=CBD5E1&line=0EA5E9&point=67E8F9&area=true&area_color=164E63&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" alt="Contribution activity graph"/>
 
-<h3 align="center">⚡ Code. Build. Automate. Innovate. Repeat. 🚀</h3>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Animated footer" />
-</p>
+---
+
+## `06` — Contribution Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING BEYOND THE STACK.
+
+`DESIGN` → `ENGINEER` → `AUTOMATE` → `SHIP`
+
+<a href="mailto:tejas.bansod.work@gmail.com">Let's connect and build something meaningful.</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:020617&height=110&section=footer" alt="Animated footer"/>
+
+</div>
