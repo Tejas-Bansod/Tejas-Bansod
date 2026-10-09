@@ -136,9 +136,8 @@ Developing cross-platform mobile applications with structured backend APIs and s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejas-Bansod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Bansod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejas-Bansod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas-Bansod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 <br/><br/>
 
@@ -152,7 +151,7 @@ Developing cross-platform mobile applications with structured backend APIs and s
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Bansod&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=67e8f9&area=true&hide_border=true&custom_title=TEJAS%20BANSOD%20%7C%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-Bansod&theme=tokyonight" alt="GitHub contribution activity"/>
 
 </div>
 
